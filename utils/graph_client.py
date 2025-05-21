@@ -2,9 +2,7 @@
 
 import requests
 import logging
-import json
-import base64
-from typing import Dict, Any, Optional, List, Union, BinaryIO
+from typing import Dict, Any, List, Union, BinaryIO
 
 from auth.sharepoint_auth import SharePointContext
 

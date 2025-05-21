@@ -1,7 +1,7 @@
 """Content generation utilities for SharePoint MCP server."""
 
 import logging
-from typing import Dict, Any, List
+from typing import Dict, Any
 
 # Setup logging
 logger = logging.getLogger("content_generator")

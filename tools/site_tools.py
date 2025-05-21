@@ -2,7 +2,7 @@
 
 import json
 import logging
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any
 
 from mcp.server.fastmcp import FastMCP, Context
 

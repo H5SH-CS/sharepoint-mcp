@@ -2,7 +2,7 @@
 
 import io
 import logging
-from typing import Dict, Any, Optional
+from typing import Dict, Any
 
 # Packages to support different file formats
 try:
